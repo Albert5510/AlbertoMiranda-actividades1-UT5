@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygenindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="index.xsd" version="1.9.1" xml:lang="en-US">
+  <compound refid="classpersona" kind="class"><name>persona</name>
+    <member refid="classpersona_1a0961bde2b7b9c4ce92a94c9c5456ef2f" kind="variable"><name>nombre</name></member>
+    <member refid="classpersona_1a6091a87664791110ead8c12f69204000" kind="function"><name>dormir</name></member>
+    <member refid="classpersona_1ac63ac8908b3ec79de7455b88b0ad8453" kind="function"><name>hablar</name></member>
+    <member refid="classpersona_1a809f292f794f51bda2cff997eff6166e" kind="function"><name>contar</name></member>
+    <member refid="classpersona_1a481d7d102bcf1366d9bdde3fcec2dd75" kind="function"><name>adquirirNombre</name></member>
+    <member refid="classpersona_1af2e3e44393212309a592db70b2e512dc" kind="function"><name>decirNombre</name></member>
+  </compound>
+  <compound refid="classtablaenteros_1_1_tabla_enteros" kind="class"><name>tablaenteros::TablaEnteros</name>
+    <member refid="classtablaenteros_1_1_tabla_enteros_1a5e5530d809e7e379a5c28a2fb638bc51" kind="variable"><name>tabla</name></member>
+    <member refid="classtablaenteros_1_1_tabla_enteros_1ac9f85d080be88488cb1a61c82ce253a5" kind="function"><name>TablaEnteros</name></member>
+    <member refid="classtablaenteros_1_1_tabla_enteros_1a190aba25a25d69199d91418abc2f5b75" kind="function"><name>sumaTabla</name></member>
+    <member refid="classtablaenteros_1_1_tabla_enteros_1ad22b4ebbd9245d7fcc297714462f2fc3" kind="function"><name>mayorTabla</name></member>
+    <member refid="classtablaenteros_1_1_tabla_enteros_1a1e5e4b191cbeea719d3edd0a7aa5ca5b" kind="function"><name>posicionTabla</name></member>
+  </compound>
+  <compound refid="namespacestd" kind="namespace"><name>std</name>
+  </compound>
+  <compound refid="namespacetablaenteros" kind="namespace"><name>tablaenteros</name>
+  </compound>
+  <compound refid="_ejercicio1_8cc" kind="file"><name>Ejercicio1.cc</name>
+    <member refid="_ejercicio1_8cc_1ae66f6b31b5ad750f1fe042a706a4e3d4" kind="function"><name>main</name></member>
+  </compound>
+  <compound refid="_tabla_enteros_8java" kind="file"><name>TablaEnteros.java</name>
+  </compound>
+</doxygenindex>

@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="classtablaenteros_1_1_tabla_enteros" kind="class" language="Java" prot="public">
+    <compoundname>tablaenteros::TablaEnteros</compoundname>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="classtablaenteros_1_1_tabla_enteros_1a5e5530d809e7e379a5c28a2fb638bc51" prot="private" static="no" mutable="no">
+        <type>Integer[]</type>
+        <definition>Integer [] tablaenteros.TablaEnteros.tabla</definition>
+        <argsstring></argsstring>
+        <name>tabla</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="TablaEnteros.java" line="15" column="20" bodyfile="TablaEnteros.java" bodystart="15" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="package-func">
+      <memberdef kind="function" id="classtablaenteros_1_1_tabla_enteros_1ac9f85d080be88488cb1a61c82ce253a5" prot="package" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>tablaenteros.TablaEnteros.TablaEnteros</definition>
+        <argsstring>(Integer[] tabla)</argsstring>
+        <name>TablaEnteros</name>
+        <param>
+          <type>Integer[]</type>
+          <declname>tabla</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="TablaEnteros.java" line="17" column="4" bodyfile="TablaEnteros.java" bodystart="17" bodyend="21"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classtablaenteros_1_1_tabla_enteros_1a190aba25a25d69199d91418abc2f5b75" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>int</type>
+        <definition>int tablaenteros.TablaEnteros.sumaTabla</definition>
+        <argsstring>()</argsstring>
+        <name>sumaTabla</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="TablaEnteros.java" line="24" column="14" bodyfile="TablaEnteros.java" bodystart="24" bodyend="29"/>
+      </memberdef>
+      <memberdef kind="function" id="classtablaenteros_1_1_tabla_enteros_1ad22b4ebbd9245d7fcc297714462f2fc3" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>int</type>
+        <definition>int tablaenteros.TablaEnteros.mayorTabla</definition>
+        <argsstring>()</argsstring>
+        <name>mayorTabla</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="TablaEnteros.java" line="33" column="14" bodyfile="TablaEnteros.java" bodystart="33" bodyend="39"/>
+      </memberdef>
+      <memberdef kind="function" id="classtablaenteros_1_1_tabla_enteros_1a1e5e4b191cbeea719d3edd0a7aa5ca5b" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>int</type>
+        <definition>int tablaenteros.TablaEnteros.posicionTabla</definition>
+        <argsstring>(int n)</argsstring>
+        <name>posicionTabla</name>
+        <param>
+          <type>int</type>
+          <declname>n</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="TablaEnteros.java" line="42" column="14" bodyfile="TablaEnteros.java" bodystart="42" bodyend="49"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="author"><para>Nombre del alumno </para>
+</simplesect>
+</para>
+    </detaileddescription>
+    <location file="TablaEnteros.java" line="14" column="7" bodyfile="TablaEnteros.java" bodystart="14" bodyend="50"/>
+    <listofallmembers>
+      <member refid="classtablaenteros_1_1_tabla_enteros_1ad22b4ebbd9245d7fcc297714462f2fc3" prot="public" virt="non-virtual"><scope>tablaenteros::TablaEnteros</scope><name>mayorTabla</name></member>
+      <member refid="classtablaenteros_1_1_tabla_enteros_1a1e5e4b191cbeea719d3edd0a7aa5ca5b" prot="public" virt="non-virtual"><scope>tablaenteros::TablaEnteros</scope><name>posicionTabla</name></member>
+      <member refid="classtablaenteros_1_1_tabla_enteros_1a190aba25a25d69199d91418abc2f5b75" prot="public" virt="non-virtual"><scope>tablaenteros::TablaEnteros</scope><name>sumaTabla</name></member>
+      <member refid="classtablaenteros_1_1_tabla_enteros_1a5e5530d809e7e379a5c28a2fb638bc51" prot="private" virt="non-virtual"><scope>tablaenteros::TablaEnteros</scope><name>tabla</name></member>
+      <member refid="classtablaenteros_1_1_tabla_enteros_1ac9f85d080be88488cb1a61c82ce253a5" prot="package" virt="non-virtual"><scope>tablaenteros::TablaEnteros</scope><name>TablaEnteros</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

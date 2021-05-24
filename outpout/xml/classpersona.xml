@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="classpersona" kind="class" language="C++" prot="public">
+    <compoundname>persona</compoundname>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="classpersona_1a0961bde2b7b9c4ce92a94c9c5456ef2f" prot="private" static="no" mutable="no">
+        <type>char</type>
+        <definition>char persona::nombre[40]</definition>
+        <argsstring>[40]</argsstring>
+        <name>nombre</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Ejercicio1.cc" line="13" column="6" bodyfile="Ejercicio1.cc" bodystart="13" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classpersona_1a6091a87664791110ead8c12f69204000" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void persona::dormir</definition>
+        <argsstring>()</argsstring>
+        <name>dormir</name>
+        <briefdescription>
+<para>probemos si esto funciona </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Ejercicio1.cc" line="7" column="6" bodyfile="Ejercicio1.cc" bodystart="18" bodyend="20"/>
+      </memberdef>
+      <memberdef kind="function" id="classpersona_1ac63ac8908b3ec79de7455b88b0ad8453" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void persona::hablar</definition>
+        <argsstring>()</argsstring>
+        <name>hablar</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Ejercicio1.cc" line="8" column="6" bodyfile="Ejercicio1.cc" bodystart="21" bodyend="23"/>
+      </memberdef>
+      <memberdef kind="function" id="classpersona_1a809f292f794f51bda2cff997eff6166e" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void persona::contar</definition>
+        <argsstring>(int)</argsstring>
+        <name>contar</name>
+        <param>
+          <type>int</type>
+          <defname>limite</defname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Ejercicio1.cc" line="9" column="6" bodyfile="Ejercicio1.cc" bodystart="24" bodyend="29"/>
+      </memberdef>
+      <memberdef kind="function" id="classpersona_1a481d7d102bcf1366d9bdde3fcec2dd75" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void persona::adquirirNombre</definition>
+        <argsstring>()</argsstring>
+        <name>adquirirNombre</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Ejercicio1.cc" line="10" column="6" bodyfile="Ejercicio1.cc" bodystart="30" bodyend="33"/>
+      </memberdef>
+      <memberdef kind="function" id="classpersona_1af2e3e44393212309a592db70b2e512dc" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void persona::decirNombre</definition>
+        <argsstring>()</argsstring>
+        <name>decirNombre</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Ejercicio1.cc" line="11" column="6" bodyfile="Ejercicio1.cc" bodystart="34" bodyend="36"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="Ejercicio1.cc" line="4" column="1" bodyfile="Ejercicio1.cc" bodystart="5" bodyend="14"/>
+    <listofallmembers>
+      <member refid="classpersona_1a481d7d102bcf1366d9bdde3fcec2dd75" prot="public" virt="non-virtual"><scope>persona</scope><name>adquirirNombre</name></member>
+      <member refid="classpersona_1a809f292f794f51bda2cff997eff6166e" prot="public" virt="non-virtual"><scope>persona</scope><name>contar</name></member>
+      <member refid="classpersona_1af2e3e44393212309a592db70b2e512dc" prot="public" virt="non-virtual"><scope>persona</scope><name>decirNombre</name></member>
+      <member refid="classpersona_1a6091a87664791110ead8c12f69204000" prot="public" virt="non-virtual"><scope>persona</scope><name>dormir</name></member>
+      <member refid="classpersona_1ac63ac8908b3ec79de7455b88b0ad8453" prot="public" virt="non-virtual"><scope>persona</scope><name>hablar</name></member>
+      <member refid="classpersona_1a0961bde2b7b9c4ce92a94c9c5456ef2f" prot="private" virt="non-virtual"><scope>persona</scope><name>nombre</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>
